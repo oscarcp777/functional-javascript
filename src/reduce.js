@@ -5,3 +5,4 @@ const countWords = (inputWords) => {
    }, {})
 }
 module.exports = countWords
+
